@@ -1,0 +1,16 @@
+{
+    "name": "Core.HSM",
+    "rootNamespace": "Core.HSM",
+    "references": [
+        "GUID:51ad19fc7b6b2894b83949bbc9044236"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
