@@ -12,15 +12,15 @@
 <details>
 <summary><h3>모듈 추가 명령어</h3></summary>
   
-  1. 프로젝트의 루트로 이동
-  2. git submodule add https://github.com/Lume-uta/Unity_Architecture.git 폴더_경로/이름
+  1. `프로젝트의 루트로 이동`
+  2. `git submodule add https://github.com/Lume-uta/Unity_Architecture.git 폴더_경로/이름`
 </details>
 <details>
 <summary><h3>태그 변경 명령어</h3></summary>
   
-  1. 서브모듈의 주소로 이동
-  2. git fetch --tags
-  3. git checkout 태그명
+  1. `서브모듈의 주소로 이동`
+  2. `git fetch --tags`
+  3. `git checkout 태그명`
 </details>
 
 # ✏️ 버전 설명
